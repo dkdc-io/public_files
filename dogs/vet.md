@@ -4,38 +4,32 @@
 
 Town & Country Veterinarians and Pet Resort
 
-### address
+(352) 378-6027
 
+```
 6890 SW Archer Rd
 Gainesville, FL 32608
-
-### phone
-
-(352) 378-6027
+```
 
 ## backup vet
 
 Archer Animal Hospital
 
-### address
+(352) 495-2910
 
+```
 16105 SW Archer Rd
 Archer, FL 32618
-
-### phone
-
-(352) 495-2910
+```
 
 ## backup backup vet
 
 Newberry Animal Hospital 39th Ave
 
-### address
+(352) 332-2292
 
+```
 3909 NW 97th Blvd
 Gainesville, FL 32606
-
-### phone
-
-(352) 332-2292
+```
 
