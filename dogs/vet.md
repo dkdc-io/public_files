@@ -6,6 +6,8 @@ Both Murphy and Nix are in the system of all vets listed below. Only the primary
 
 Town & Country Veterinarians and Pet Resort
 
+Next to the Publix complex with Linda Vista off of Archer road not far from the "must love dogs" dog park.
+
 ```
 (352) 378-6027
 ```
@@ -19,6 +21,8 @@ Gainesville, FL 32608
 
 Archer Animal Hospital
 
+Before the main intersection in Archer if driving down Archer Road from Gainesville.
+
 ```
 (352) 495-2910
 ```
@@ -31,6 +35,8 @@ Archer, FL 32618
 ## backup backup
 
 Newberry Animal Hospital 39th Ave
+
+Near 39th and I-75.
 
 ```
 (352) 332-2292
