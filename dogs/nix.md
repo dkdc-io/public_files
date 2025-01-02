@@ -8,3 +8,15 @@ Facts:
 - black and born fut; weird tail
 - ~38 lbs
 
+## food
+
+## potty
+
+## exercise
+
+## pictures
+
+![nix](img/nix1.jpeg)
+
+![nix](img/nix2.jpeg)
+
