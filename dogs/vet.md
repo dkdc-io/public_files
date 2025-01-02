@@ -1,4 +1,4 @@
-# vet (Murphy + Nix)
+# vet ([Murphy](murphy.md) + [Nix](nix.md))
 
 ## primary
 
