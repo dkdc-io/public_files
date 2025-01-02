@@ -1,5 +1,7 @@
 # vet ([Murphy](murphy.md) + [Nix](nix.md))
 
+Both Murphy and Nix are in the system of all vets listed below. Only the primary vet has current information (i.e. if for some reason you need to use a backup vet, have them communicate with the primary vet for current information).
+
 ## primary
 
 Town & Country Veterinarians and Pet Resort
